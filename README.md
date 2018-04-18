@@ -14,7 +14,7 @@ What's the most probable character? **'e'**, right?
 There are other approaches in text generation like trying to learn the next word from a sequence of words (insted of characters). This codification and problem is Word2Vec, which is a more uitlized approach. [This is an explaining blog/tutorial of Word2Vec](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
 
 ###
-In order to train the model with a specific [text](./text) just run:
+In order to train the model with a specific [text](./text.txt) just run:
 ```
 python train.py
 ```
